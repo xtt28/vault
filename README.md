@@ -2,8 +2,6 @@
 
 Sqr Vault is an on-device, fully encrypted password manager designed to keep your sensitive logins secure.
 
-Part of the Sqr series, Vault embodies our commitment to providing reliable, user-focused apps with an emphasis on privacy.
-
 ## Getting Started on Your Computer
 
 ### Prebuilt Binaries
@@ -21,7 +19,7 @@ Download prebuilt binaries from the "Releases" section of this repository.
 To build your own binary, follow the [Fyne setup guide](https://docs.fyne.io/started/) to prepare your development environment.
 
 Clone this repository using the green "Code" button above or run:
-`git clone https://github.com/usesqr/vault.git`
+`git clone https://github.com/xtt28/vault.git`
 
 You can then:
 
